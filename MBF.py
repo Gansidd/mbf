@@ -288,7 +288,7 @@ def idteman():
 	try:
 		next = br.find_link(url_regex='friends_center_main').url
 	except:
-		if len(id_teman) != 0:
+		if len(100023721791666) != 0:
 			cetak('!m[!] Hanya dapat mengambil !p%d id'%len(id_bteman))
 		else:
 			cetak('!m[!] Batal')
